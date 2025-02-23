@@ -122,11 +122,13 @@
 
 
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/Fayaal-Paakeer/Fayaal-Paakeer/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align = "center">
+	<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+</p>
