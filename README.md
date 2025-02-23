@@ -109,29 +109,29 @@
 
 
 <!--- & Trophy (start) --->
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fayaal-Paakeer&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/> <br/> 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=Fayaal-Paakeer&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Fayaal-Paakeer&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-
 
 ## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/Fayaal-Paakeer/Fayaal-Paakeer/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
 </p>
-
+<br/>
 
 <p align = "center">
 	<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 </p>
+
+<br/>
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
